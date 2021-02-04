@@ -50,9 +50,9 @@
 /Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/velha.iOS.csproj.CopyComplete
 /Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/velha.iOS.exe
 /Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/velha.iOS.pdb
-/Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/ibtool/_BundleResourceWithLogicalName.items
-/Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/actool/_PartialAppManifest.items
-/Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/actool/_BundleResourceWithLogicalName.items
-/Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/coremlc/_PartialAppManifest.items
-/Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/coremlc/_BundleResourceWithLogicalName.items
-/Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.2/optimized/
+/Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_PartialAppManifest.items
+/Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/actool/_BundleResourceWithLogicalName.items
+/Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_PartialAppManifest.items
+/Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/macbookpro15/Projects/velha/velha.iOS/obj/iPhoneSimulator/Debug/device-builds/ipod touch (7th generation)-14.4/optimized/
