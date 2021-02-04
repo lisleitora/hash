@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="velha.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    BackgroundColor="Black">
+    <Grid ColumnDefinitions="*,*,*" RowDefinitions="*,*,*">
+
+        <Button
+            x:Name="p1"
+            Grid.Row="0"
+            Grid.Column="0"
+            BackgroundColor="White"
+            Clicked="p1_Clicked"
+            FontSize="150"
+            Text="1"
+            TextColor="Black" />
+
+        <Button
+            x:Name="p2"
+            Grid.Row="0"
+            Grid.Column="1"
+            BackgroundColor="White"
+            Clicked="p2_Clicked"
+            FontSize="150"
+            Text="2"
+            TextColor="Black" />
+
+        <Button
+            x:Name="p3"
+            Grid.Row="0"
+            Grid.Column="2"
+            BackgroundColor="White"
+            Clicked="p3_Clicked"
+            FontSize="150"
+            Text="3"
+            TextColor="Black" />
+
+        <Button
+            x:Name="p4"
+            Grid.Row="1"
+            Grid.Column="0"
+            BackgroundColor="White"
+            Clicked="p4_Clicked"
+            FontSize="150"
+            Text="4"
+            TextColor="Black" />
+
+        <Button
+            x:Name="p5"
+            Grid.Row="1"
+            Grid.Column="1"
+            BackgroundColor="White"
+            Clicked="p5_Clicked"
+            FontSize="150"
+            Text="5"
+            TextColor="Black" />
+
+        <Button
+            x:Name="p6"
+            Grid.Row="1"
+            Grid.Column="2"
+            BackgroundColor="White"
+            Clicked="p6_Clicked"
+            FontSize="150"
+            Text="6"
+            TextColor="Black" />
+
+        <Button
+            x:Name="p7"
+            Grid.Row="2"
+            Grid.Column="0"
+            BackgroundColor="White"
+            Clicked="p7_Clicked"
+            FontSize="150"
+            Text="7"
+            TextColor="Black" />
+
+        <Button
+            x:Name="p8"
+            Grid.Row="2"
+            Grid.Column="1"
+            BackgroundColor="White"
+            Clicked="p8_Clicked"
+            FontSize="150"
+            Text="8"
+            TextColor="Black" />
+
+        <Button
+            x:Name="p9"
+            Grid.Row="2"
+            Grid.Column="2"
+            BackgroundColor="White"
+            Clicked="p9_Clicked"
+            FontSize="150"
+            Text="9"
+            TextColor="Black" />
+
+    </Grid>
+</ContentPage>

@@ -1,0 +1,14 @@
+/Users/macbookpro15/Projects/velha/velha/bin/Debug/netstandard2.0/velha.deps.json
+/Users/macbookpro15/Projects/velha/velha/bin/Debug/netstandard2.0/velha.dll
+/Users/macbookpro15/Projects/velha/velha/bin/Debug/netstandard2.0/ref/velha.dll
+/Users/macbookpro15/Projects/velha/velha/bin/Debug/netstandard2.0/velha.pdb
+/Users/macbookpro15/Projects/velha/velha/obj/Debug/netstandard2.0/velha.csprojAssemblyReference.cache
+/Users/macbookpro15/Projects/velha/velha/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/macbookpro15/Projects/velha/velha/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/macbookpro15/Projects/velha/velha/obj/Debug/netstandard2.0/velha.AssemblyInfoInputs.cache
+/Users/macbookpro15/Projects/velha/velha/obj/Debug/netstandard2.0/velha.AssemblyInfo.cs
+/Users/macbookpro15/Projects/velha/velha/obj/Debug/netstandard2.0/velha.csproj.CoreCompileInputs.cache
+/Users/macbookpro15/Projects/velha/velha/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/macbookpro15/Projects/velha/velha/obj/Debug/netstandard2.0/velha.dll
+/Users/macbookpro15/Projects/velha/velha/obj/Debug/netstandard2.0/ref/velha.dll
+/Users/macbookpro15/Projects/velha/velha/obj/Debug/netstandard2.0/velha.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cYMqTUdb1ExgVkT6VkT6z8oJtaH2VYcmaZvXY2UOchXKUmPTe/9lUncykqfefZE8RnRvbSb6rd5gwg3/jzWS2Q==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro15/Projects/velha/velha.iOS/velha.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro15/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/macbookpro15/.nuget/packages/xamarin.forms/4.8.0.1560/xamarin.forms.4.8.0.1560.nupkg.sha512"
+  ],
+  "logs": []
+}
